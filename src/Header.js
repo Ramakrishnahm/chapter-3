@@ -24,7 +24,7 @@ const Title = () => (
             <li>Home</li>
             <li>About</li>
             <li>Contact</li>
-            <li>Cart</li>
+            <li>Dsta</li>
           </ul>
         </div>
       </div>
